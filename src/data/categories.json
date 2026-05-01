@@ -1,0 +1,37 @@
+[
+  {
+    "id": "learnership",
+    "label": "Learnerships",
+    "icon": "🎓",
+    "path": "/learnerships",
+    "description": "Earn a qualification while earning a stipend"
+  },
+  {
+    "id": "internship",
+    "label": "Internships",
+    "icon": "💼",
+    "path": "/internships",
+    "description": "Graduate and student work experience programmes"
+  },
+  {
+    "id": "bursary",
+    "label": "Bursaries",
+    "icon": "📚",
+    "path": "/bursaries",
+    "description": "Financial funding for studies at university or TVET"
+  },
+  {
+    "id": "apprenticeship",
+    "label": "Apprenticeships",
+    "icon": "🔧",
+    "path": "/apprenticeships",
+    "description": "Artisan trade training leading to trade certificates"
+  },
+  {
+    "id": "tvet-pathways",
+    "label": "TVET Pathways",
+    "icon": "🏫",
+    "path": "/tvet-pathways",
+    "description": "TVET college courses, N courses, and occupational programmes"
+  }
+]
